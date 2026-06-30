@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+data/
+outputs/
+
+*.aux
+*.log
+*.out
+*.toc
+
+# Local report and references are not part of the submitted code repo.
+*.pdf
+report.tex
+references/
